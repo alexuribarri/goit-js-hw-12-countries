@@ -1,4 +1,5 @@
-let cName = 'united';
-fetch(`https://restcountries.eu/rest/v2/name/${cName}`)
-  .then(r => r.json)
-  .then(r => console.dir(r));
+// let cArray = [];
+// const getCountries = (name) => {fetch(`https://restcountries.eu/rest/v2/name/${name}`).then(r=>{return r.json()}).then(cObject=> {cObject.map(country=> cArray.push(country))})}
+
+
+
