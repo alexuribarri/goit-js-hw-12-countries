@@ -18,3 +18,27 @@ body {
    */
   background-image: url('./images/bg-pattern.png');
 }
+
+.details {
+  display: flex;
+}
+
+.details_last {
+  list-style-type: none;
+}
+
+.languages {
+  list-style-type:  disc;
+}
+.country_card {
+  display: flex;
+
+}
+
+.left {
+  padding: 40px;
+  }
+
+  .right {
+    padding: 40px;
+  }
